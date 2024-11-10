@@ -12,7 +12,7 @@ export default function Home() {
           {/* Text Section */}
           <div className="flex flex-col w-1/2 text-white text-center items-center">
             <Image
-              src="/0fbeb115f1e8d5e97afae7599424db0d.jpg"
+              src="/images.jpeg"
               width={200}
               height={100}
               alt="image website"
