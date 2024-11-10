@@ -12,7 +12,7 @@ export default function Home() {
           {/* Text Section */}
           <div className="flex flex-col w-1/2 text-white text-center items-center">
             <Image
-              src="/images.jpeg"
+              src="/0fbeb115f1e8d5e97afae7599424db0d.jpg"
               width={200}
               height={100}
               alt="image website"
@@ -30,7 +30,7 @@ export default function Home() {
         {/* Image Section */}
         <div className="w-1/2 flex justify-center">
           <Image
-            src="/output-onlinegiftools.gif"
+            src="/images.jpeg"
             width={600}
             height={500}
             alt="website image"
